@@ -2,7 +2,7 @@
 
 ![This is an image](https://i.postimg.cc/Fzh19hW7/MOMA.png)
 
-ini adalah website yang dapat digunakan unutuk chatting grub moma, di buat dengan [moralis](https://moralis.io/) Web3 Development Platform dan beberapa teknologi lainya seperti React, Next.Js dll.
+ini adalah website yang dapat digunakan untuk chatting grub moma, di buat dengan [moralis](https://moralis.io/) Web3 Development Platform dan beberapa teknologi lainya seperti React, Next.Js dll.
 
 # Cara Menggunakan
 
